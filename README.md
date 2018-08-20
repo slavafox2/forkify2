@@ -22,7 +22,7 @@ From left list choose the nutrition
 
 Take any liked order and drop it to the like list by press 'Heart' button
 
-![2](/imagesForReadMe//3.jpg)
+![3](/imagesForReadMe//3.jpg)
 ---
 ---
 
