@@ -1,0 +1,40 @@
+{
+  "name": "forkify2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "author": "SL",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "fractional": "^1.0.0",
+    "jquery": "^3.3.1",
+    "jshint": "^2.9.5",
+    "uniqid": "^5.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavafox2/forkify2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slavafox2/forkify2/issues"
+  },
+  "homepage": "https://github.com/slavafox2/forkify2#readme",
+  "description": ""
+}
