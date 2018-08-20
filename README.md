@@ -7,6 +7,7 @@ stack of technologies:  wabpack, babel, ajax, axios
 
 about: 
 >__Search page__
+
 In search fild to write word like 'pizza' or anything alse
 ![1](/imagesForReadMe//1.jpg)
 ---
