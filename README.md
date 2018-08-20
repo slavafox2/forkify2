@@ -1,14 +1,11 @@
 # **Forkify**  project about order food from sites by granted outer API
 
-
-
 stack of technologies:  wabpack, babel, ajax, axios
 
-
-about: 
 >Search page
 
 In search fild to write word like 'pizza' or anything alse
+
 ![1](/imagesForReadMe//1.jpg)
 ---
 ---
@@ -16,6 +13,7 @@ In search fild to write word like 'pizza' or anything alse
 >Choice with ingredients page
 
 From left list choose the nutrition
+
 ![2](/imagesForReadMe//2.jpg)
 ---
 ---
@@ -23,6 +21,7 @@ From left list choose the nutrition
 >Liked list page
 
 Take any liked order and drop it to the like list by press 'Heart' button
+
 ![2](/imagesForReadMe//3.jpg)
 ---
 ---
