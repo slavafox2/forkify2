@@ -1,4 +1,4 @@
-# **Forkify**  project about order food from sites by granted outer API
+# **Forkify**  web app about order food from sites by granted outer API
 
 stack of technologies:  wabpack, babel, ajax, axios
 
